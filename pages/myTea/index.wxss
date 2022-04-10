@@ -1,0 +1,12 @@
+/**index.wxss**/
+.header {
+  text-align: center;
+  width: 100%;
+}
+.header-image {
+  width: 80px;
+  height: 150px;
+}
+.image-item {
+  width: 100vw;
+}

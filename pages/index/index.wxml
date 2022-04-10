@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="tea-container">
+<view class="header-tip">
+    吾观世间法，
+</view>
+<view class="header-tip">
+    如睹梦中花，
+</view>
+<view class="header-tip">
+    朝露着尘埃，
+</view>
+<view class="header-tip">
+    虚空涅槃性。
+</view>
+</view>

@@ -1,0 +1,30 @@
+<!--index.wxml-->
+<view class="tea-container">
+	<view class="header">
+		<image mode="aspectFit" class="header-image" src="../../images/logo/hua-logo.jpeg" />
+	</view>
+    <view class="main-con">
+        <view class="con-item">
+            <image mode="aspectFit" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cA53fb4d7c6a0e801be65211b27cc95e09.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_32,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_32,x_22,y_22,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+        </view>
+        <view class="con-item">
+            <image mode="aspectFit" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cA791a59d4e0c124e6fdc54b49be39d7f0.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_32,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_32,x_22,y_22,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+        </view>
+        <view class="con-item">
+            <image mode="aspectFit" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cA7e9bc729c46c2ea37063066d00a4e4ef.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_32,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_32,x_22,y_22,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+        </view>
+        <view class="con-item">
+            <image mode="aspectFit" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cA9332835eaf60daa9c3ddf394846152f7.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_32,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_32,x_22,y_22,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+        </view>
+        <view class="con-item">
+            <image mode="aspectFit" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cA6ebc108824b2f4ff65aeca35ebbb3c47.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_32,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_32,x_22,y_22,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+        </view>
+        <view class="con-item">
+            <image mode="aspectFit" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cAe360511d335476b8ce0de54f91279c8b.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_32,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_32,x_22,y_22,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+        </view>
+        <view class="con-item">
+            <image mode="aspectFit" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cA236b99a4be5b8fcf312b4558eec86ed0.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_32,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_32,x_22,y_22,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+        </view>
+    </view>
+</view>
+

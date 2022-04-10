@@ -1,0 +1,9 @@
+<view class="tea-container">
+	<view class="header">
+		<image mode="aspectFit" class="header-image" bind:tap="getUserProfile" src="../../images/logo/base.jpeg" />
+	</view>
+    <image mode="widthFix" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cA46f3342877ec925f57d77aa38ff0cc65.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_43,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_43,x_29,y_29,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+    <image mode="widthFix" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cA26c04c0f010a5e1f8a168472b8b95487.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_43,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_43,x_29,y_29,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+    <image mode="widthFix" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cAa2018924c25bce642c5cc9400076044a.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_43,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_43,x_29,y_29,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+    <image mode="widthFix" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cA2c10e108fcd3e52690b497bdb00cda62.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_25,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_25,x_17,y_17,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+</view>

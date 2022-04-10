@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/myTea/index",
+    "pages/myFlower/index",
+    "pages/myOwn/index"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "ASVA空间",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#2c2c2c",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/tabbar/home-base.png",
+        "selectedIconPath": "images/tabbar/home.png"
+      },
+      {
+        "pagePath": "pages/myTea/index",
+        "text": "茶室",
+        "iconPath": "images/tabbar/tea-base.png",
+        "selectedIconPath": "images/tabbar/tea.png"
+      },
+      {
+        "pagePath": "pages/myFlower/index",
+        "text": "花室",
+        "iconPath": "images/tabbar/flower-base.png",
+        "selectedIconPath": "images/tabbar/flower.png"
+      },
+      {
+        "pagePath": "pages/myOwn/index",
+        "text": "赋能",
+        "iconPath": "images/tabbar/own-base.png",
+        "selectedIconPath": "images/tabbar/own.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

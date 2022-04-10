@@ -1,0 +1,20 @@
+.header {
+  text-align: center;
+  width: 100%;
+}
+.header-image {
+  width: 100px;
+  height: 150px;
+}
+.con-item {
+  display: inline-block;
+  width: 48vw;
+  margin: 1vw;
+  text-align: center;
+  border-radius: 6px;
+  background: #ccc;
+}
+.image-item {
+  width: 100%;
+  height: 220px;
+}

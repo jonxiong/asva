@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="tea-container">
+	<view class="header">
+		<image mode="aspectFit" class="header-image" src="../../images/logo/cha-logo.jpeg" />
+	</view>
+    <image mode="widthFix" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cA22a2a483dd8f71deaee563a7cc87f72b.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_43,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_43,x_29,y_29,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+    <image mode="widthFix" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cAcf82e4c9dd506524df242604326e388a.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_58,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_58,x_38,y_38,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+    <image mode="widthFix" class="image-item" src="https://b0.bdstatic.com/ugc/vufpxQzHGf8BKCP67pH3cAee4b6524f2d7a27ec31d1165c5ff01d4.jpg?x-bce-process=image/watermark,image_NDU0ZjAyZDU5YjQ1LnBuZw==,bucket_searchbox,w_32,text_QOWkp-eGiuafr-mBkw==,type_RlpMYW5UaW5nSGVp,size_32,x_22,y_22,interval_4,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1" />
+</view>
